@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-cors-headers
+gunicorn
+python-decouple
+dj-database-url
+whitenoise
