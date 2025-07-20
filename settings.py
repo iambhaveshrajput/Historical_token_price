@@ -6,9 +6,9 @@ import dj_database_url
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = config('DJANGO_SECRET_KEY')
-DEBUG = config('DJANGO_DEBUG', default=False, cast=bool)
-ALLOWED_HOSTS = ['*']
+SECRET_KEY = m$&&%g9omm%fb6nz%^^41sd&g-3u0jcu8k(-_kbc8vhr5_$!8j
+DEBUG = FALSE
+ALLOWED_HOSTS = https://historical-token-price-ud34.onrender.com
 
 INSTALLED_APPS = [
     'django.contrib.admin',
